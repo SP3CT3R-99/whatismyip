@@ -1,3 +1,75 @@
-# wifi-password-windows
 
+# whatismyip
+
+Simple project made to find out local ip address and global ip address.   
 This project made for education purpose only
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/SP3CT3R-99/whatismyip.git
+```
+
+Go to the project directory
+
+```bash
+  cd whatismyip
+```
+
+Install dependencies
+
+```bash
+  pip install -r requirements.txt (Python 2) or pip3 install -r requirements.txt (Python 3)
+```
+
+Start the script
+
+```bash
+  python whatismyip.py
+```
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.cybersaradiyel.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harindu-mansaka-2b093b214)
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Authors
+
+- [@SP3CT3R-99](https://github.com/SP3CT3R-99)
+
+
+## Badges
+
+
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+## Contributing
+
+Contributions are always welcome!
+
+
+
+
+## Support
+
+For support, email eviefyre4k@gmail.com 
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/SP3CT3R-99/whatismyip/blob/main/ip.png)
+
